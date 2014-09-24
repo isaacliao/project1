@@ -5,7 +5,7 @@
 * git push
 * git branch
 * git checkout
-* a change by a colleague
+# Some edits
 * remote editing
 * local edit
 * another web edit
