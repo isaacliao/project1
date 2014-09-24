@@ -6,3 +6,4 @@
 * git branch
 * git checkout
 * remote editing
+* local edit
